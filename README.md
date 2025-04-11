@@ -8,10 +8,6 @@ This project was created as part of the Google Cybersecurity Certificate to simu
 - Followed NIST and ISO 27001 frameworks for best practices.
 - Identified policy gaps and provided remediation recommendations.
 
-## 📁 Files Included
-
-- `checklist.xlsx` – The actual checklist covering controls, status, and notes.
-- `report.pdf` – Summary of compliance status and suggested improvements.
 
 ## 🛠️ Skills Demonstrated
 
